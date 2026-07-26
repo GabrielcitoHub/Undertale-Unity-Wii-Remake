@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\objects\DialogueText.js" />
+     <Compile Include="Assets\scripts\objects\test.js" />
      <Compile Include="Assets\scripts\scenes\intro.js" />
      <Compile Include="Assets\scripts\scenes\story.js" />
   </ItemGroup>
