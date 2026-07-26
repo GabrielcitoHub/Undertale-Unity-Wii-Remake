@@ -5,7 +5,8 @@ Undertale-test-csharp.sln
 Undertale-test.sln
 src/Library/guidmapper
 src/Library/assetDatabase3
-src/Library/ScriptAssemblies/Assembly-UnityScript.dll
-src/Library/ScriptAssemblies/Assembly-UnityScript.dll.mdb
-src/Library/metadata/f0/f088c366c8e9b1944bb58fd16ea9a26a
-src/Library/cache/f0/f088c366c8e9b1944bb58fd16ea9a26a
+src/Library/ScriptAssemblies/
+src/Library/metadata/
+src/Library/cache/
+src/Library/assetDatabase3
+src/Library/guidmapper
